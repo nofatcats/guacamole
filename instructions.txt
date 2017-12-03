@@ -1,5 +1,7 @@
 -chop avacodos
+-add chopped onion
 -squeeze lime
 -add salt
 -mix well
 -enjoy
+
